@@ -1,6 +1,6 @@
 # Navigation Project
 
-The goal of a agent is to collect as many yellow bananas as possible while avoiding blue bananas.  
+The goal of the agent is to collect as many yellow bananas as possible while avoiding blue bananas.  
 
 ## Learning Algorithm
 
